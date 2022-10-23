@@ -18,12 +18,19 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace WindowsFormsApp1
+
 {
+
     public partial class Form1 : Form
+    
     {
+    
         char _islem;
+        
         bool _ekrantemizle;
+        
         int _ilksayi;
+        
 
 
         public Form1()
